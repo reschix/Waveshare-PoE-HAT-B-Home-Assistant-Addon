@@ -19,5 +19,5 @@ RUN \
 
 COPY . .
 
-CMD python ./examples/main.py
+CMD python ./bin/main.py
 
