@@ -1,0 +1,3 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Example Home Assistant add-on repository
+url: 'https://github.com/reschix/Waveshare-PoE-HAT-B-Home-Assistant-Addon.git'

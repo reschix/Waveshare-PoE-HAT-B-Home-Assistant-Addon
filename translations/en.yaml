@@ -1,0 +1,4 @@
+configuration:
+  fan_temp:
+    name: Fan Temperature Min
+    description: Temp for the fan to turn on. Restart Addon after change!
