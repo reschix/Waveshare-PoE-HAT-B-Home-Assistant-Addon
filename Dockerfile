@@ -1,5 +1,5 @@
-ARG BUILD_FROM
-FROM $BUILD_FROM
+FROM python:3-alpine
+
 
 # Install requirements for add-on
 RUN \
